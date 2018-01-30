@@ -11,6 +11,7 @@
 - 谈谈classloader
 - 动态布局
 - 热修复,插件化
+  答：[Android插件化：从入门到放弃](http://www.infoq.com/cn/articles/android-plug-ins-from-entry-to-give-up)
 - HashMap源码,SpareArray原理
 - 性能优化,怎么保证应用启动不卡顿
 - 怎么去除重复代码
