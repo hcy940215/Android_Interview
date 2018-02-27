@@ -9,6 +9,7 @@
 - 统计启动时长,标准
 - 如何保持应用的稳定性
 - ThreadLocal 原理
+  答：[ThreadLocal原理](http://blog.csdn.net/imzoer/article/details/8262101)
 - 谈谈classloader
 - 动态布局
 - 热修复,插件化
