@@ -11,6 +11,7 @@
 - ThreadLocal 原理
   答：[ThreadLocal原理](http://blog.csdn.net/imzoer/article/details/8262101)
 - 谈谈classloader
+  答：[ClassLoader加载过程](http://blog.csdn.net/javazejian/article/details/73413292)
 - 动态布局
 - 热修复,插件化
   答：[Android插件化：从入门到放弃](http://www.infoq.com/cn/articles/android-plug-ins-from-entry-to-give-up)
