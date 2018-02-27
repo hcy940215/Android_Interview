@@ -1,6 +1,7 @@
 # Android面试整理
 ## 阿里巴巴
 - LRUCache原理
+  答：[LRUCache原理](http://blog.csdn.net/qq_25806863/article/details/77548468)
 - 图片加载原理
 - 模块化实现（好处，原因）
 - JVM
