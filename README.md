@@ -73,6 +73,7 @@
 - ConCurrentHashMap实现
 - CAS介绍
 - 开启线程的三种方式,run()和start()方法区别
+  答：[开启线程的三种方式](http://blog.csdn.net/longshengguoji/article/details/41126119)
 - 线程池
 - 常用数据结构简介
 - 判断环（猜测应该是链表环）
