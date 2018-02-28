@@ -6,7 +6,8 @@
 - 模块化实现（好处，原因）
 - JVM
 - 视频加密传输
-- 统计启动时长,标准
+- 统计启动时长,标准  
+  答：[统计启动时长](http://blog.csdn.net/beyond_liyy/article/details/52273740)
 - 如何保持应用的稳定性
 - ThreadLocal 原理
   答：[ThreadLocal原理](http://blog.csdn.net/imzoer/article/details/8262101)
