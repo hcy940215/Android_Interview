@@ -38,6 +38,7 @@
 - 描述清点击 Android Studio 的 build 按钮后发生了什么
 - 大体说清一个应用程序安装到手机上时发生了什么；
 - 对 Dalvik、ART 虚拟机有基本的了解；
+  答：[Dalvik、ART 虚拟机](https://www.jianshu.com/p/58f817d176b7)
 - Android 上的 Inter-Process-Communication 跨进程通信时如何工作的；
 - App 是如何沙箱化，为什么要这么做；
 - 权限管理系统（底层的权限是如何进行 grant 的）
