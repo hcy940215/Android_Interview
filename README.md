@@ -19,6 +19,7 @@
 - HashMap源码,SpareArray原理
 - 性能优化,怎么保证应用启动不卡顿
 - 怎么去除重复代码
+  答：[去除重复代码](http://blog.csdn.net/wangzhongshun/article/details/78738217)
 - SP是进程同步的吗?有什么方法做到同步
 - 介绍下SurfView
 - HashMap实现原理，ConcurrentHashMap 的实现原理
